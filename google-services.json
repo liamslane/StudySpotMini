@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "746186959048",
+    "project_id": "studyspotmini",
+    "storage_bucket": "studyspotmini.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746186959048:android:5e94529d05a015c17fddfd",
+        "android_client_info": {
+          "package_name": "com.ldavis.studyspotmini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRnb3FzICGeS3jpp4WVN1fVnpizAK2Zdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
